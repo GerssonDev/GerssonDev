@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 👋 ¡Hola y bienvenidos a mi perfil de Github!<br><br> Soy un programador Java  de Colombia, con 25 años y una pasión por la tecnología y el desarrollo de software.<br><br>🔭 Actualmente, estoy trabajando en proyectos que combinan Java Swing para interfaces de usuario intuitivas con bases de datos robustas en el back-end.<br><br>👯 Estoy buscando colaborar en proyectos desafiantes que me permitan aplicar y expandir mis habilidades en Java y desarrollo full stack.<br><br>🌱 Actualmente, estoy aprendiendo más sobre algoritmos avanzados y estructuras de datos, porque sé que una base sólida en estos temas es clave para ser un programador excepcional.<br><br>💬 Pregúntame sobre Java Swing, gestión de bases de datos, o cualquier cosa relacionada con desarrollo full stack. ¡Me encanta compartir lo que sé!<br><br>⚡ Dato curioso: Además de programar, disfruto de la música y ver series y películas.
 
 
